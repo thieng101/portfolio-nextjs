@@ -21,7 +21,7 @@ const HeroSection = () => {
               Hire me
             </button>
             <button className="px-6 py-3 w-full sm:w-fit rounded-full bg-transparent bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-800 text-white border border-white mt-3">
-              Download Resume
+              Download Resume BLAH BALH TESTING
             </button>
           </div>
         </div>
